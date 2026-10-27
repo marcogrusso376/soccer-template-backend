@@ -24,23 +24,63 @@ module.exports = async function handler(req, res) {
         const html = await response.text();
         const $ = cheerio.load(html);
 
-        const title = $("title").text().trim();
-        const headings = [];
+        const matches = [];
 
-        $("h1, h2, h3, h4").each((i, element) => {
-            const heading = $(element).text().trim();
+        $("#single-team-schedule tbody tr").each((i, row) => {
+            const cells = $(row).children("td");
 
-            if (heading) {
-                headings.push(heading);
-            }
+            if (cells.length < 8) return;
+
+            const homeCell = $(cells[0]);
+            const awayCell = $(cells[1]);
+
+            const homeLink = homeCell.find("a").first();
+            const awayLink = awayCell.find("a").first();
+
+            const getTeamName = (cell) =>
+                cell.find("a").first()
+                    .clone()
+                    .children()
+                    .remove()
+                    .end()
+                    .text()
+                    .trim();
+
+            const getLogo = (cell) =>
+                cell.find("img").first().attr("src") || null;
+
+            const getScore = (cell) => {
+                const value = $(cell).text().trim();
+                return value === "" ? null : Number(value);
+            };
+
+            const statusCell = $(cells[7]);
+
+            matches.push({
+                home: getTeamName(homeCell),
+                away: getTeamName(awayCell),
+                homeLogo: getLogo(homeCell),
+                awayLogo: getLogo(awayCell),
+                date: $(cells[2]).text().trim(),
+                dateTimestamp:
+                    $(cells[2]).attr("data-sort") || null,
+                time: $(cells[3]).text().trim(),
+                homeScore: getScore(cells[4]),
+                awayScore: getScore(cells[5]),
+                venue: $(cells[6]).text().trim(),
+                status: statusCell.text().trim(),
+                matchUrl:
+                    homeLink.attr("href") ||
+                    awayLink.attr("href") ||
+                    null
+            });
         });
 
         return res.status(200).json({
             success: true,
-            pageTitle: title,
-            htmlLength: html.length,
-            headings: headings,
-            htmlReceived: true
+            team: "Boston Street FC",
+            matchCount: matches.length,
+            matches
         });
 
     } catch (error) {

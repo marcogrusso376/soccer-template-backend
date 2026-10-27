@@ -1,0 +1,610 @@
+{
+  "team": "Boston Street FC",
+  "source": "Saved UPSL HTML snapshot",
+  "record": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 2,
+    "goals": 25
+  },
+  "matches": [
+    {
+      "home": "Brockton FC United",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/136342.jpg?lastmod=16551792000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "08/15/2026",
+      "dateTimestamp": "1786806000",
+      "time": "3:00 pm PT",
+      "homeScore": 3,
+      "awayScore": 2,
+      "venue": "Madison Park High School",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Street FC",
+      "away": "GZS Bridgeport FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/814673.jpg?lastmod=16731540000",
+      "date": "08/23/2026",
+      "dateTimestamp": "1787493600",
+      "time": "2:00 pm PT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "venue": "Harry Della Russo Stadium",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Unations FC",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/664991.jpg?lastmod=16551792000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "08/29/2026",
+      "dateTimestamp": "1788019200",
+      "time": "4:00 pm PT",
+      "homeScore": 3,
+      "awayScore": 1,
+      "venue": "Stephen Nowak Memorial Fields",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Street FC",
+      "away": "Fall River FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/068188.jpg?lastmod=17410644000",
+      "date": "09/06/2026",
+      "dateTimestamp": "1788714000",
+      "time": "5:00 pm PT",
+      "homeScore": 2,
+      "awayScore": 3,
+      "venue": "Harry Della Russo Stadium",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "South Coast Union",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/800145.jpg?lastmod=17623188000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "09/12/2026",
+      "dateTimestamp": "1789223400",
+      "time": "2:30 pm PT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "venue": "Greater New Bedford High School",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Street FC",
+      "away": "Jaguars United FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/320639.jpg?lastmod=16551792000",
+      "date": "09/20/2026",
+      "dateTimestamp": "1789923600",
+      "time": "5:00 pm PT",
+      "homeScore": 5,
+      "awayScore": 0,
+      "venue": "Harry Della Russo Stadium",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Hartford Athletic II",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/743468.jpg?lastmod=16593264000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "09/26/2026",
+      "dateTimestamp": "1790434800",
+      "time": "3:00 pm PT",
+      "homeScore": 1,
+      "awayScore": 2,
+      "venue": "Trinity Health Stadium",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Street FC",
+      "away": "United Africa Boston FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/978652.jpg?lastmod=17548848000",
+      "date": "10/04/2026",
+      "dateTimestamp": "1791133200",
+      "time": "5:00 pm PT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "venue": "Harry Della Russo Stadium",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Emeralds FC",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/763447.jpg?lastmod=17658612000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "10/07/2026",
+      "dateTimestamp": "1791392400",
+      "time": "5:00 pm PT",
+      "homeScore": 5,
+      "awayScore": 1,
+      "venue": "Boston College High School",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Street FC",
+      "away": "Beech Street Football Club",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/278553.jpg?lastmod=17412372000",
+      "date": "10/11/2026",
+      "dateTimestamp": "1791738000",
+      "time": "5:00 pm PT",
+      "homeScore": 7,
+      "awayScore": 1,
+      "venue": "Revere High School Field",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Unations FC",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/664991.jpg?lastmod=16551792000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "10/24/2026",
+      "dateTimestamp": "1792854000",
+      "time": "3:00 pm PT",
+      "homeScore": 2,
+      "awayScore": 2,
+      "venue": "Stephen Nowak Memorial Fields",
+      "status": "upsl__show__results"
+    },
+    {
+      "home": "Boston Emeralds FC",
+      "away": "Boston Street FC",
+      "homeLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/763447.jpg?lastmod=17658612000",
+      "awayLogo": "https://res.cloudinary.com/hn2szl8kc/image/upload/q_auto/team-logos/602647.jpg?lastmod=17552304000",
+      "date": "11/07/2026",
+      "dateTimestamp": "1794065400",
+      "time": "3:30 pm PT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "venue": "Boston College High School",
+      "status": "upsl__show__schedule"
+    }
+  ],
+  "staff": [
+    {
+      "name": "FrankMessina",
+      "title": "Coach",
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/FYSRbrp06wesiDE94ZGKxYdrPot41W.jpg"
+    },
+    {
+      "name": "TomaszMarczak",
+      "title": "Coach",
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/04/QO1UawE7X2IAsRI5ImcYHWlodxUme1.jpg"
+    },
+    {
+      "name": "OwenRenault",
+      "title": "Coach",
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/11/CSkRR1g256ejtSBhWJJCKxZGWAhFMQ-13.jpg"
+    },
+    {
+      "name": "MauricioZavala",
+      "title": "Coach",
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/11/zIrhNR4Ul3ir7LeRRhPSxxpk8xgZAY-12.jpg"
+    },
+    {
+      "name": "WilmerMartinez",
+      "title": "Admin",
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/11/rRg3nVkAsWcj2i6B6L4fV48SZrD54Z-14.jpg"
+    }
+  ],
+  "players": [
+    {
+      "name": "David H.Paiva",
+      "position": "Midfield",
+      "appearances": 27,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/eMzH0p6iVSCDe5qrt2WNpGSr8QZoNO.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Santiago Mosquera Orozco",
+      "position": "Midfield",
+      "appearances": 24,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2024/08/HpEhSP9flUQUja3OmUKI4Vk8xgY5xJ.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Roberto Dubon",
+      "position": "Defense",
+      "appearances": 24,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/05/7cTTBWpOJG7uJxqMdHAo9pcj3XUeAw.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Tomas J.Jimenez",
+      "position": "Defense",
+      "appearances": 23,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/gxv1wHv9ZVN18Ig9lpJdKYpVeGnDKM.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Isaie Louis",
+      "position": "Forward",
+      "appearances": 19,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2024/04/xU0b5STPn1RwSa8aJmU42aUeiiJPLF.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Dan C.Cadet",
+      "position": "Forward",
+      "appearances": 18,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/08/1shWBJpC7jg3AeNiK5SHmE4nfqMN1v-1.jpg",
+      "nationality": "Haiti"
+    },
+    {
+      "name": "Johan Oquendo Uribe",
+      "position": "Forward",
+      "appearances": 17,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/02/zQ1Alcmx1bJBojY9oajbg9ZPd7MG5z.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Tomasz M.Marczak",
+      "position": "Goalkeeper",
+      "appearances": 15,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/05/OTWohlyMxYYZgkw0inGqi8XtfANvCb-1.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Enzo P.Goncalves",
+      "position": "Forward",
+      "appearances": 14,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/c5629pFcccpF5dWgo6khDkyhjaaB24.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "Taj M.Jensen",
+      "position": "Midfield",
+      "appearances": 14,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/03/ZyhNRpW80wy0Y5pdbdCeIUjP67vGkP.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Elbert Gomes",
+      "position": "Defense",
+      "appearances": 13,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/3zQzmHpZRNAqmuDdqX5Cwf0oP0KlJE.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "James Stevens",
+      "position": "Defense",
+      "appearances": 13,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/aYYsPA2lbsTkb3GhIaSLdTY5uDfFdH.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Samuel Medina",
+      "position": "Defense",
+      "appearances": 12,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/i2ZSBOBPYbteLboIADZsMTm5JfypGG.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Luis P.Sartor",
+      "position": "Midfield",
+      "appearances": 11,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/04/Ip8KFPpy10nR10CElyHe53pDjkIdgb.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "Drake Byrd",
+      "position": "Forward",
+      "appearances": 11,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/03/Fvbe2nv73DeybWgRdnkKsTFKRafDBR-1.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Haitam Bentounsi",
+      "position": "Forward",
+      "appearances": 11,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/03/Cc271wxVOrT8vMoEgo7lS5lVmnjSyJ-2.jpg",
+      "nationality": "Morocco"
+    },
+    {
+      "name": "Zachary J.Rowell",
+      "position": "Goalkeeper",
+      "appearances": 11,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/08/Ct0xyN8kPEjTqaeck4svIg8iqr8zhg-1.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Matheus Gomes",
+      "position": "Defense",
+      "appearances": 11,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/05/X739gUgqasjEv0o59AqfrUfHNelHIf-1.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Karl Vernet",
+      "position": "Goalkeeper",
+      "appearances": 10,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/KaABdEk8zIFCpK4PKwQwVF0aX2UHoU.jpg",
+      "nationality": "US"
+    },
+    {
+      "name": "Diego Pierantozzi",
+      "position": "Forward",
+      "appearances": 9,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/QapqBYoXmJxbGo7QjF5FmnZdwQQvxI.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Reda Qesmi",
+      "position": "Defense",
+      "appearances": 9,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/04/jiUw9OhA0LRNvdxppMEdirRmSoCNRG.jpg",
+      "nationality": "MA"
+    },
+    {
+      "name": "DJ Tucker",
+      "position": "Midfield",
+      "appearances": 9,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/05/GhMXZ383EJDhOj3na0s1S9iKCnFdqT.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Juan camilo Hernandez",
+      "position": "Forward",
+      "appearances": 8,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/EERRvrJvxCuW3xNC0EjhgntG7KMzm2.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Hossam Salhi",
+      "position": "Defense",
+      "appearances": 8,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/ZrW26RTF5ibbLERNUv7FttWXK1rA8E.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Jacob Matalon",
+      "position": "Midfield",
+      "appearances": 8,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/qniav1ZC1E5wXTLi24yCDHmJfrStrp.jpg",
+      "nationality": "JM"
+    },
+    {
+      "name": "Nicholas Chaparro",
+      "position": "Defense",
+      "appearances": 8,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/03/QRksxMKaL4w6MHyZhVYWH4nFzJRwYC.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Jack R.Phelps",
+      "position": "Defense",
+      "appearances": 8,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/78TcnQ6MetaXzKmod6HVraDZgtEM9s.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Maxim H.Chriss",
+      "position": "Midfield",
+      "appearances": 7,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2024/08/U6t3EH6ukzGsS6ZbTc7gjxZ1gdXaR1.jpg",
+      "nationality": "Russian Federation"
+    },
+    {
+      "name": "Yester J.Varela",
+      "position": "Defense",
+      "appearances": 6,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/R7nQwcsNeZG8z31yVU4FHOkHs8bgkS.jpg",
+      "nationality": "Honduras"
+    },
+    {
+      "name": "Nicholas Mirogiannis",
+      "position": "Forward",
+      "appearances": 6,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/05/tXoFkMnr8DeuRXhbsF6b7X0VIfZ8r3.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Joshua Desouza",
+      "position": "Forward",
+      "appearances": 6,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/04/xM1a5WM3tpk7YoB0GxCXhxOPmupfRp.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "Pierce Julien",
+      "position": "Forward",
+      "appearances": 6,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/09/QyXVlFxxRrHGc7vQZ6UTipzH1h0pPV.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Ty C.Foster",
+      "position": "Midfield",
+      "appearances": 6,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2024/08/cvhECgG0BHRVomv8GSQOy1QeDiYHxL.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Benjamin Q.Silva",
+      "position": "Forward",
+      "appearances": 5,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/05/UVJBq4pyJWlqkPCWE60Titu6BlrJx4.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Albert Aramayo",
+      "position": "Midfield",
+      "appearances": 5,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/04/vfRrSF6O9chw9UktdHIk8x8ECqWCyW.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Leandro Villa",
+      "position": "Midfield",
+      "appearances": 5,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/09/WsMkTgrNYf1APURsiQPCAg5wIXAJ9Y-1.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Brady M.Farah",
+      "position": "Defense",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/2t0xXfYxCJ90pzi5w5kkcLwuwGfPDt.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "David Marquez Gaviria",
+      "position": "Forward",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/dsg7UCaRcLNkLsmxGKaZnySAljOFmy.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Henrique G.Dias",
+      "position": "Defense",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/05/2Q3DZ227x8iLrVY49wO4yyUDtTBrUY.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Adriano Gomez Garcia",
+      "position": "Forward",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/03/WsXq2MK1i86TpggTbCwHL7Ifefo6Mc.jpg",
+      "nationality": "El Salvador"
+    },
+    {
+      "name": "Theo J.Goode",
+      "position": "Goalkeeper",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/03/CyUwSxvQqKo4OXlvpZMczaSRjCWVRs.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Andres Callejas",
+      "position": "Forward",
+      "appearances": 4,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/05/qLKZw6K8Fc1k4Y1BFiqy0735Y3qew1.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Owen Simas",
+      "position": "Forward",
+      "appearances": 3,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/10/2IT4mz5EUFoREG2rrihgiIQeYcrTF9.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Mason Brooks",
+      "position": "Goalkeeper",
+      "appearances": 3,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/tQSmGtAwTmSfK8H0FkGFcxIsXnd47s.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Estevao P.Cardoso",
+      "position": "Forward",
+      "appearances": 3,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2022/05/jx5C9p6nDH7BY8BK32oTwcmjK6UeHG-5.jpg",
+      "nationality": "Cape Verde"
+    },
+    {
+      "name": "Dimas E.Guerra",
+      "position": "Defense",
+      "appearances": 2,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/bcs4DYO4qRCWbhcQ9YcXwnHmk5RO0Q.jpg",
+      "nationality": "El Salvador"
+    },
+    {
+      "name": "Ethan Reich",
+      "position": "Midfield",
+      "appearances": 2,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/03/tLS1xPz9w0Zs5NrxFPK5ERxkzRxZe2.jpg",
+      "nationality": "US"
+    },
+    {
+      "name": "Anthony J.Quirola",
+      "position": "Midfield",
+      "appearances": 2,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/08/Ptu0UoMJY3E9Lfxo48lchAO7LM0goj-1.jpg",
+      "nationality": "Ecuador"
+    },
+    {
+      "name": "Daniel G.Bede",
+      "position": "Defense",
+      "appearances": 2,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2024/05/XNGb8cuMXZzBy2GEBLoCZ5HRlO3YlF.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Daniel Orrego",
+      "position": "Midfield",
+      "appearances": 2,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/03/rMc9T9x4AnqI3P7bAqHri3YAUkdAvq.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "David Canedo",
+      "position": "Defense",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/10/oz7qO2ScdSX1xeBGyFOv4mNPAQh3Bu.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Xavier J.Martinez",
+      "position": "Goalkeeper",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/09/YtXzl8h1zpjNycXpZnsukVT5gwjCHO.jpg",
+      "nationality": "Mexico"
+    },
+    {
+      "name": "Gabriel A.Da Silva",
+      "position": "Midfield",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/05/9kWwcyk4taUsILinLF94AQ5Ktdms97.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "Oscar I.Martinez",
+      "position": "Midfield",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/09/gNl2sTa7kAd0CH3xRsWhAqXABViC9p.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Joao Arthu P.Nozar",
+      "position": "Defense",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/02/YGz84k9yCV8tMR5UYzwnkDDgltnfMo.jpg",
+      "nationality": "Brazil"
+    },
+    {
+      "name": "Juan felipe Suaza cano",
+      "position": "Defense",
+      "appearances": 1,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2023/08/6ZUXgjvHPn8pZ4DCDF1Pg3490iUJHJ.jpg",
+      "nationality": "Colombia"
+    },
+    {
+      "name": "Angel R.Ortez",
+      "position": "Midfield",
+      "appearances": 0,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2026/08/XxNOp33x1AUqjBQp7GuIzIxdgEjeEL.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Dominic Reiter",
+      "position": "Defense",
+      "appearances": 0,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/05/8BTbu9VrNKjOKGjXIive6qIPArc5EB-1.jpg",
+      "nationality": "United States"
+    },
+    {
+      "name": "Lucas W.Carey",
+      "position": "Forward",
+      "appearances": 0,
+      "image": "https://upsl.com/wp-content/uploads/sites/5/2025/03/0dNIbvJxGjNe26apheHfxtyBZHTbeE.jpg",
+      "nationality": "United States"
+    }
+  ]
+}
